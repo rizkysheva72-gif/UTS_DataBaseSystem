@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="DreamHome" id="2097975C-C2D0-9B19-5CBA-8876CCD5B251" version="3.5">
+<createdBy>PUSBUK-10</createdBy>
+<createdTime>2026-10-16 01:17:46 UTC</createdTime>
+<ownerDesignName>DreamHome</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>2097975C-C2D0-9B19-5CBA-8876CCD5B251</designId>
+</OSDM_Design>
