@@ -1,0 +1,2 @@
+# UTS_DataBaseSystem
+UTS RIZKY SHEVA KURNIA(1251420066) soal no 6.10,6.11 
